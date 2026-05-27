@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvetch",
+        "uuid": 20209890,
+        "checksum": "g7q678"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
